@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="83b659f2-bf0a-4348-8816-d7d23a5d4d24" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javapubpri.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arearectangulo/Areare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arearectangulo/Principalarea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicio10/Calcular10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicio10/Principalcalcular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Imparopar/Ejerc13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Imparopar/Main13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Positivonegativo11/Numero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Positivonegativo11/Principalnumero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prestamolibro/Prestamo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prestamolibro/PrincipalPrestamo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pruebaresta/Principalresta1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pruebaresta/Resta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Reclamo9/MainReclamo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Reclamo9/Reclamo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Semaforo/Maintraffic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Semaforo/Trafficlight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Usuario/PrincipalUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Usuario/Usuario.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2buY8alJvlffGdwqkFsxEyBQZO7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Calcular10.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Main13.executor": "Run",
+    "Application.Maintraffic.executor": "Run",
+    "Application.PrincipalPrestamo.executor": "Run",
+    "Application.PrincipalSemaforo.executor": "Run",
+    "Application.PrincipalUser.executor": "Run",
+    "Application.PrincipalUsuario.executor": "Run",
+    "Application.Principalarea.executor": "Run",
+    "Application.Principalcalcular.executor": "Run",
+    "Application.Principalnumero.executor": "Run",
+    "Application.Principalresta1.executor": "Run",
+    "Application.Reclamo.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/Usuario/IdeaProjects/Javapubpri/src/Main.java"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Reclamo">
+    <configuration name="Main13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Imparopar.Main13" />
+      <module name="Javapubpri" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Imparopar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Maintraffic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Semaforo.Maintraffic" />
+      <module name="Javapubpri" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Semaforo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrincipalPrestamo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Prestamolibro.PrincipalPrestamo" />
+      <module name="Javapubpri" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Prestamolibro.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrincipalSemaforo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Semaforo.PrincipalSemaforo" />
+      <module name="Javapubpri" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Semaforo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Reclamo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Reclamo9.Reclamo" />
+      <module name="Javapubpri" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Reclamo9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Reclamo" />
+        <item itemvalue="Application.PrincipalPrestamo" />
+        <item itemvalue="Application.Main13" />
+        <item itemvalue="Application.Maintraffic" />
+        <item itemvalue="Application.PrincipalSemaforo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83b659f2-bf0a-4348-8816-d7d23a5d4d24" name="Changes" comment="" />
+      <created>1707066274752</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707066274752</updated>
+    </task>
+    <servers />
+  </component>
+</project>
